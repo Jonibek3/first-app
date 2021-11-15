@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+
+.father{
+    background-image: url(../ocean\ 4k.jpg);
+    width: 100%;
+    height: 100vh;
+    
+
+}
+.head{
+    display: flex;
+    margin-left: 30%;
+    width: 70%;
+    height: 50px;
+    padding-top:150px ;
+    color: white;
+}
+.item{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.item_two {
+    height: 30px;
+    background: url(images/opacity.png);
+    border-radius: 20px;
+    border-color: white;
+    color: white;
+}
+li{
+    color: white;
+}
